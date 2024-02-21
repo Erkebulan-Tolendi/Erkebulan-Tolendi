@@ -9,7 +9,8 @@ Welcome to my GitHub profile! I'm Tolendi, a passionate Flutter developer dedica
 
 📫 **How to reach me:**
 - Email: tolendierkebulan555@gmail.com
-
+- Phone num : +7 707 912 1005
+- 
 ⚡ **Fun fact:** I love sports and active leisure!
 
 🤝 **Let's Connect:** Feel free to reach out if you want to discuss tech, work on a project together, or just want to say hi!
@@ -20,14 +21,13 @@ Welcome to my GitHub profile! I'm Tolendi, a passionate Flutter developer dedica
 
 - **Location:** Kazakhstan, Taraz
 - **Format:** Remote, Full-time
-- **Development Experience:** ~1.5 years
-- **Commercial Experience:** 10 months
-- **Resume:** Available upon request
+- **Development Experience:** ~2 years
+- **Resume:** [Available upon request](https://drive.google.com/file/d/15qy_etiwPBFtrLJCNHriYpEc6NDKRmdr/view?usp=sharing)
 
 **Skills and Experience:**
 - Proficient in Figma, Adobe Photoshop, Adobe Illustrator, UI/UX at a high level.
 - Experience publishing applications on Google Play.
-- Developed on Android SDK for six months.
+- Android SDK, Java, Kotlin, Flutter, Dart.
 - Currently working on a self-learning project.
 - Experience working on projects related to fitness and language learning.
 
@@ -41,9 +41,11 @@ Welcome to my GitHub profile! I'm Tolendi, a passionate Flutter developer dedica
 - Git, Github, Gitlab.
 - Clean Architecture, OOP, MVVM.
 - Firebase.
-- Flutterflow.
+- State Management.
+- Flutterflow, Glide.
 - JSON - REST API (POST, GET, PUT, DELETE).
 - Custom animations.
 
 **Portfolio:**
 - GitHub: [https://github.com/Erkebulan-Tolendi](https://github.com/Erkebulan-Tolendi)
+- No Code : https://go.glideapps.com/support/a5ebdcc6-125f-456d-bdc4-83e69fe76427 
