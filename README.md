@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm Tolendi, a passionate Flutter developer dedica
 
 **Technical Stack (not limited to):**
 - Git, Github, Gitlab.
-- Clean Architecture, OOP, MVVM.
+- Clean Architecture, OOP, Bloc, Provider.
 - Firebase.
 - State Management.
 - Flutterflow, Glide.
