@@ -19,24 +19,20 @@ Welcome to my GitHub profile! I'm Tolendi, a passionate Flutter developer dedica
 
 ## Flutter Developer
 
-- **Location:** Kazakhstan, Taraz
-- **Format:** Remote, Full-time
+- **Location:** Kazakhstan, Almaty
 - **Development Experience:** ~2 years
-- **Resume:** [Available upon request](https://drive.google.com/file/d/15qy_etiwPBFtrLJCNHriYpEc6NDKRmdr/view?usp=sharing)
+- **Resume:** [Available upon request](https://docs.google.com/document/d/1TCfsYm1TN_Fm5fxiOESnGB8znc26R8DZNcmGtwFJd2M/edit?usp=sharing)
 
 **Skills and Experience:**
-- Proficient in Figma, Adobe Photoshop, Adobe Illustrator, UI/UX at a high level.
 - Experience publishing applications on Google Play.
 - Android SDK, Java, Kotlin, Flutter, Dart.
 - Currently working on a self-learning project.
 - Experience working on projects related to fitness and language learning.
 
 **Education:**
-- Currently pursuing a degree in Computer Science and Engineering at JIHC, 3rd year.
-
-**Education and Courses:**
-- Completed the Udemy course on Flutter/Dart mobile app development.
-
+- Graduated Computer Science and Engineering at JIHC, associate degree.
+- Current time Computer Science and Engineering at IITU, Bachelor degree.
+  
 **Technical Stack (not limited to):**
 - Git, Github, Gitlab.
 - Clean Architecture, OOP, Bloc, Provider.
@@ -46,6 +42,3 @@ Welcome to my GitHub profile! I'm Tolendi, a passionate Flutter developer dedica
 - JSON - REST API (POST, GET, PUT, DELETE).
 - Custom animations.
 
-**Portfolio:**
-- GitHub: [https://github.com/Erkebulan-Tolendi](https://github.com/Erkebulan-Tolendi)
-- No Code : https://go.glideapps.com/support/a5ebdcc6-125f-456d-bdc4-83e69fe76427 
